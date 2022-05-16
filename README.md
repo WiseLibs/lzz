@@ -1,6 +1,6 @@
 # lzz
 
-Once upon a time, there was a project called *Lazy C++* ("`lzz`"), which allowed C++ programmers to write code without worrying so much about header files. For projects that weren't going to be imported by other code (and thus a well-defined header interface wasn't important), this was a big time-saver.
+Once upon a time, there was a project called *Lazy C++* ("`lzz`"), which allowed C++ programmers to write code without worrying so much about header files. For projects where header files weren't important, this was a big time-saver.
 
 The Lazy C++ project [became unmaintained](https://github.com/mjspncr/lzz3/issues/32) sometime in 2020, but other projects still depend on it. To help people maintain such projects, this repository contains executable binaries of the most recent published version of `lzz` (v2.8.2). Since it is not longer being updated, it may not support newer features of the C++ programming language.
 
